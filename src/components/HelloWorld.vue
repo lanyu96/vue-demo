@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: '蓝域TEST',
+  name: 'ZHOUTEST',
   data () {
     return {
       msg: '这是第一个VUE程序'
