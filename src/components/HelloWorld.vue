@@ -88,7 +88,7 @@ export default {
   name: 'ZHOUTEST',
   data () {
     return {
-      msg: '这是第一个VUE程序'
+      msg: 'VUE界面测试'
     }
   }
 }
